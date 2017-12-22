@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Trust and Feedback in HRI"
+title = "Autonomous Control of Self-Driving Car"
 
 # Project summary to display on homepage.
 #summary = "An example of linking directly to an external project website using `external_link`."

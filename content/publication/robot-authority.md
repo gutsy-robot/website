@@ -32,15 +32,15 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+projects = ["robot-authority"]
 
 # Links (optional).
 url_pdf = "https://dl.acm.org/citation.cfm?id=3029798.3038387"
 url_code = "https://github.com/gutsy-robot/shooting_experiment"
-url_project = "#"
+#url_project = "#"
 #url_video = "#"
-url_poster = "#"
-url_source = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

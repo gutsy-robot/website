@@ -14,7 +14,7 @@ authors = ["Siddharth Agrawal", "Holly Yanco"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In ACM/IEEE International Conference on Human-Robot Interaction"
@@ -28,7 +28,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

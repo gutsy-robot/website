@@ -1,6 +1,6 @@
 +++
 title = "Feedback Methods in HRI: Studying their effect on Real-Time Trust and Operator Workload"
-date = "2017-12-22"
+#date = "2018-03-03"
 
 #Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Siddharth Agrawal", "Holly Yanco"]
@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In ACM/IEEE International Conference on Human-Robot Interaction"
-publication_short = "Submitted In HRI, 2018"
+publication_short = "HRI, 2018"
 
 # Abstract and optional shortened version.
 abstract = "Previous studies in HRI have found that timing of reliability drops during a human-robot interaction affect real-time trust and control allocation strategy. Studies have also been conducted to examine the impact of providing continuous feedback about robot confidence on trust, operator workload and optimisation of control allocation strategy, during a human-robot collaborative task. In this paper, we discuss how we wish to further explore different methodologies of giving feedback and study their impact on trust, control allocation and workload. We would be conducting new studies using the similar study design as used by Desai et al [1] in their study. We will be incorporating a few changes in the method of providing feedback. The goal is to compare the results of the new study with the old one and to have an analysis of the effect of different feedback methodologies on real-time trust, workload and control allocation strategy."

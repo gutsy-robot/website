@@ -9,7 +9,7 @@ title = "Robot Authority and Human Obedience"
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "robot-authority.jpg"
+image_preview = "authority-cartoon.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

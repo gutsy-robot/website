@@ -9,12 +9,12 @@ title = "Autonomous Control of Self-Driving Car"
 #summary = "An example of linking directly to an external project website using `external_link`."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "dive.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["robotics"]
-image_preview = "robot-authority.jpg"
+
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://example.org"

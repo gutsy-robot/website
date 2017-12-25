@@ -222,6 +222,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://github.com/gutsy-robot"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/siddharth-agrawal-hri/"
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/gutsy_robot/"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

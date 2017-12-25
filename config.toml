@@ -253,7 +253,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Travel"
-  url = "#travel"
+  url = "https://www.instagram.com/gutsy_robot/"
   weight = 4
 
 [[menu.main]]

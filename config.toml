@@ -266,6 +266,11 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 5
 
+[[menu.main]]
+  name = "Resume"
+  url = "https://goo.gl/9AzyFE"
+  weight = 6
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"

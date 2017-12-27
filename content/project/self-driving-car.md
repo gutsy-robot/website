@@ -23,5 +23,6 @@ tags = ["robotics"]
 math = false
 
 +++
+This project work is for my senior thesis at IIT Delhi, under Prof. Sunil Jha. I am also working with a cross-department team of IIT Delhi:Dlive for the Mahindra Driverless Car Challenge through this project. The project is aimed at designing and implementing an end-to-end solution for the Mahindra Driverless Car. I have been implementing state of the art algorithms for Localisation, Path Planning, SLAM and Lane Segmentation in ROS, for this project. I have also collaborated with the Vision Group at IIT Delhi for working on some of the more advanced problems related to Computer Vision in this project.
 
 {{< youtube zAfO1xEGN_I >}}

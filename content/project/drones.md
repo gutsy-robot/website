@@ -23,5 +23,5 @@ math = false
 
 +++
 
-Starting this project in Spring, 18, working with Aniket Bajpai, a senior undergraduate in CSE, IITD. Our aim is to work on planning algorithms for co-ordinated navigation of a drone swarm in disaster stricken regions for search and rescue purposes. We also want to leverage human decision making capabilities in these situations, so we will work on understanding how a drone swarm can be controlled and coordinated by one human supervisor. More specifically, we want to create an interface by which a human can supervise an autonomous drone swarm, and intervene whenever he feels necessary. We plan to design a VR interface using a HTC Vive to create the human-interface. 
+Starting this project in Spring, 18, will be working with Aniket Bajpai, a senior undergraduate in CSE, IITD. We will be working on designing planning algorithms for co-ordinated navigation of a drone swarm in disaster stricken regions for search and rescue purposes. We also want to leverage human decision making capabilities in these situations, so we will also work on understanding how a drone swarm can be controlled by one human supervisor. More specifically, we want to create an interface by which a human can supervise an autonomous drone swarm, and intervene whenever he feels necessary. We plan to design a VR interface using a HTC Vive to create the human-interface. 
 

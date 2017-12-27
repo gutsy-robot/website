@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Semi-Supervised Control of a Swarm of Drones"
 
 # Project summary to display on homepage.
-#summary = "An example of linking directly to an external project website using `external_link`."
+#summary = "Starting this project in Spring, 18, working with Aniket Bajpai, a senior undergraduate in CSE, IITD. Our aim is to work on"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "drones.jpg"

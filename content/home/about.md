@@ -26,6 +26,6 @@ weight = 5
 
 # About Me
 
-I am a senior undergraduate at IIT Delhi, with a deep interest in Robotics and Human-Robot Interaction. I aim to design autonomus agents with cognitive capabilities that can interact with humans naturally. I want to apply my knowledge of Robotics and AI in conjunction with Human Ergonomics to design robots which can co-exist with humans. 
+I am a senior undergraduate at IIT Delhi, with a deep interest in Robotics and Human-Robot Interaction. I aim to design autonomous agents with cognitive capabilities that can interact with humans naturally. I want to apply my knowledge of Robotics and AI in conjunction with Human Ergonomics to design robots which can co-exist with humans. 
 
 On the side, I am also passionate about trekking, sports and country music.

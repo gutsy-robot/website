@@ -36,7 +36,7 @@ selected = true
 projects = ["trust-feedback"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1DvT9gSMDm4w_-27i6PByPSq0btRIavWh/view"
+url_pdf = "https://dl.acm.org/citation.cfm?id=3177031"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""

@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Robotics",
     "Human-Robot Interaction",
-    "Computer Vision"
+    "Computer Vision",
     "Deep Learning"
   ]
 

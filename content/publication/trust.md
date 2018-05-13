@@ -17,7 +17,7 @@ authors = ["Siddharth Agrawal", "Holly Yanco"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In ACM/IEEE International Conference on Human-Robot Interaction"
+publication = "In ACM/IEEE International Conference on Human-Robot Interaction' 18"
 publication_short = "HRI, 2018"
 
 # Abstract and optional shortened version.

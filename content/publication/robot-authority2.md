@@ -1,6 +1,6 @@
 +++
 title = "Would you obey an Aggressive Robot: an HRI Field Study"
-#date = "2017-03-03"
+#date = "2018-03-03"
 
 #Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Siddharth Agrawal", "Mary-Anne Williams"]
@@ -14,11 +14,11 @@ authors = ["Siddharth Agrawal", "Mary-Anne Williams"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In ACM/IEEE International Conference on Human-Robot Interaction"
-publication_short = "Submitted In HRI, 2018"
+publication_short = "Submitted In RO-MAN, 2018"
 
 # Abstract and optional shortened version.
 abstract = "Social Robots are of great utility in healthcare, search and rescue, surveillance and military applications. In many applications, these robots instruct/advice humans to follow their instructions. In this paper we present the results of a HRI experiment conducted to explore the variables involved in obedience of humans to social robots. We were mainly interested in studying how obedience to robot is related to perceived aggression in robot’s behaviour. We implemented various social cues to exhibit and convey authority and aggressiveness in the robot’s behaviour. We analysed the impact of other factors such as perceived anthropomorphism, safety, intelligence and responsibility in robot’s behaviour on participants’ compliance to the robot’s instructions. The results suggest that the degree of aggression that different participants perceived in the robot’s behaviour did not have a significant impact in their decision to follow the robot’s instruction. We have provided possible explanations for our findings and identified new research questions that need to be answered in this field of research."

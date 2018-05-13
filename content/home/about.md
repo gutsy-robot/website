@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Robotics",
     "Human-Robot Interaction",
-    "Artificial Intelligence"
+    "Computer Vision"
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,6 +27,8 @@ weight = 5
 
 # About Me
 
-I am a senior undergraduate at IIT Delhi, with a deep interest in Robotics and Human-Robot Interaction. I aim to design autonomous agents with cognitive capabilities that can interact with humans naturally. I want to apply my knowledge of Robotics and AI in conjunction with Human Ergonomics to design robots which can co-exist with humans. 
+I am a senior undergraduate at IIT Delhi, with a deep interest in Robotics, Human-Robot Interaction and Computer Vision. I aim to design autonomous agents with cognitive capabilities that can interact with humans naturally. I want to apply my knowledge of Robotics and AI in conjunction with Human Ergonomics to design robots which can co-exist with humans. I am particularly interested in the problems of Human-Robot Interaction Design, Autonomous Driving and Robot Learning from Demonstration.
 
-On the side, I am also passionate about trekking, sports and country music.
+I have had the good fortune of working with many amazing HRI researchers including Prof. Holly Yanco and Prof. Mary-Anne Williams.
+
+Outside of work, I am quite passionate about hiking and sports.

@@ -35,7 +35,4 @@ This project work is for my senior thesis at IIT Delhi, under Prof. Sunil Jha. I
 
 
 
-This is the link to the final report for the project: <https://tinyurl.com/y9gqam3d>
-
-
-This is the link to the final presentation: <https://tinyurl.com/y92vojnn>
+Check out the [final report](https://tinyurl.com/y9gqam3d) and [the final presentation](https://tinyurl.com/y92vojnn)

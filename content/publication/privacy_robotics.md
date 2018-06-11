@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Workshop on Advanced Robotics and its Social Impacts ’18"
-publication_short = "in ASRO"
+publication_short = "in ARSO"
 
 # Abstract and optional shortened version.
 abstract = " "

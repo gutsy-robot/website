@@ -1,6 +1,6 @@
 +++
 title = "Feedback Methods in HRI: Studying their effect on Real-Time Trust and Operator Workload"
-date = "2018-03-03"
+date = "2018-03-07"
 
 #Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Siddharth Agrawal", "Holly Yanco"]

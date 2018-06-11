@@ -18,7 +18,7 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE RO-Man' 18"
-publication_short = "Submitted in RO-MAN' 18"
+publication_short = "in RO-MAN' 18"
 
 # Abstract and optional shortened version.
 abstract = ""

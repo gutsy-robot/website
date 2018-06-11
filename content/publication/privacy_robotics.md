@@ -14,7 +14,7 @@ authors = ["Rueben", "Aroyo", "Lutz", "Schmolz", "Cleynenbreugel", "Corti", "Agr
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Workshop on Advanced Robotics and its Social Impacts ’18"
@@ -38,9 +38,9 @@ selected = true
 #projects = ["robot-authority"]
 
 # Links (optional).
-url_pdf = "https://goo.gl/k94JfW"
+#url_pdf = "https://goo.gl/k94JfW"
 #url_preprint = ""
-url_code = "https://github.com/gutsy-robot/shooting_experiment"
+#url_code = "https://github.com/gutsy-robot/shooting_experiment"
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""

@@ -14,7 +14,7 @@ authors = ["Siddharth Agrawal", "Mary-Anne Williams"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE RO-Man' 18"

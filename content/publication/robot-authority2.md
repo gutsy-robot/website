@@ -1,6 +1,6 @@
 +++
 title = "Would you obey an Aggressive Robot: an HRI Field Study"
-date = "2018-07-07"
+date = "2018-03-03"
 
 #Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Siddharth Agrawal", "Mary-Anne Williams"]

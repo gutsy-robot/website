@@ -1,6 +1,6 @@
 +++
 title = "Would you obey an Aggressive Robot: an HRI Field Study"
-date = "2018-08-08"
+date = "2018-07-07"
 
 #Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Siddharth Agrawal", "Mary-Anne Williams"]
@@ -18,7 +18,7 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE RO-Man' 18"
-publication_short = "in RO-MAN' 18"
+publication_short = "in RO-MAN"
 
 # Abstract and optional shortened version.
 abstract = " "

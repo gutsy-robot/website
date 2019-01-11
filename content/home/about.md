@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Robotics",
-    "Human-Robot Interaction",
+    "Natural Language Processing",
     "Computer Vision",
-    "Deep Learning"
+    
   ]
 
 # List your qualifications (such as academic degrees).
@@ -27,6 +27,8 @@ weight = 5
 
 # About Me
 
-I am a senior undergraduate at IIT Delhi, with a deep interest in Robotics, Human-Robot Interaction and Computer Vision. I aim to design autonomous agents with cognitive capabilities that can interact with humans naturally. I want to apply my knowledge of Robotics and AI in conjunction with Human Ergonomics to design robots which can co-exist with humans. I am particularly interested in the problems of Human-Robot Interaction Design, Autonomous Driving and Robot Learning from Demonstration.
+My long-term research goal is to design autonomous robots with cognitive capabilities that can interact with humans naturally. I believe such robots could be of great utility in elderly care, health care and security and survillence. I do research in the areas of Human-Robot Interaction, Motion Planning, Speech and Computer Vision, all of which I find extremely relevant to solve the broader problem of designing such robots. 
 
-I have had the good fortune of working with many amazing HRI researchers including [Prof. Holly Yanco](http://www.cs.uml.edu/~holly/) and [Prof. Mary-Anne Williams](https://www.xplainableai.org/). For my senior thesis on Autonomous Driving, I have been working with Prof. Sunil Jha at IIT Delhi. Outside of work, I am quite passionate about hiking and sports.
+I recently joined the Intelligent Motion Lab at Duke University as a Visiting Research Scholar to work with [Prof. Kris Hauser](http://people.duke.edu/~kh269/) on the [TRINA Project](http://motion.pratt.duke.edu/nursing/index.html). In the past, I have worked with many amazing HRI researchers including [Prof. Holly Yanco](http://www.cs.uml.edu/~holly/) and [Prof. Mary-Anne Williams](https://www.xplainableai.org/). For my senior thesis on Autonomous Driving, I worked with Prof. Sunil Jha at IIT Delhi. 
+
+Outside of work, I am quite passionate about hiking, racket sports and classical rock music.

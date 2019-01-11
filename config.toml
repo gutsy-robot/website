@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Siddharth Agrawal"
-  role = "Senior Undergraduate, IIT Delhi"
+  role = "Visiting Research Scholar, Duke University"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -49,7 +49,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "my-pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "agrawalsiddharth12@gmail.com"
-  address = "Girnar Hostel, IIT Delhi, New Delhi, India"
+  address = "North Building, Durham, North Carolina"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -268,7 +268,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Resume"
-  url = "https://drive.google.com/open?id=1fVerNW57p4kDBW7aAFCAzADCZApy5Yhn"
+  url = "https://drive.google.com/open?id=0B8yXbzTATe3yRU5CLW9TbVk5Slk"
   weight = 6
 
 # Taxonomies.

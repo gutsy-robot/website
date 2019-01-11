@@ -31,4 +31,4 @@ My long-term research goal is to design autonomous robots with cognitive capabil
 
 I recently joined the Intelligent Motion Lab at Duke University as a Visiting Research Scholar to work with [Prof. Kris Hauser](http://people.duke.edu/~kh269/) on the [TRINA Project](http://motion.pratt.duke.edu/nursing/index.html). In the past, I have worked with many amazing HRI researchers including [Prof. Holly Yanco](http://www.cs.uml.edu/~holly/) and [Prof. Mary-Anne Williams](https://www.xplainableai.org/). For my senior thesis on Autonomous Driving, I worked with Prof. Sunil Jha at IIT Delhi. 
 
-Outside of work, I am quite passionate about hiking, racket sports and classical rock music.
+Outside of work, I am quite passionate about hiking, racquet sports and classical rock music.
